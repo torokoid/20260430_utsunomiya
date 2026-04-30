@@ -189,7 +189,7 @@ p.note { display: none; }
 <h2><span class="yellow">MacFanが最終号</span></h2>
 <a href="20260430_017.JPG" target="_blank"><img src="20260430_017.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">今後は情報をネット配信する定期サイトに移行するとのこと<br>サイトへのリンクは下記文字をクリック↓</span></h2>
+<h2><span class="yellow">今後は情報をネット配信する定期サイトに移行するとのこと<br>サイトへのリンクは↓下記文字をクリック</span></h2>
 <h2><a href="https://macfan.book.mynavi.jp/" target="_blank">定期サイトへのリンク</a></h2>
 
 <h2><span class="yellow">道の上の雲が放射状で綺麗</span></h2>
